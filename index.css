@@ -1,0 +1,27 @@
+html{
+
+    background-color:rgb(103, 85, 244);
+}
+button
+{
+    background-color:olive; 
+    position: absolute;
+    color: #fff;
+    border:none;
+    border-radius:10px;
+  }  
+.container-fluid
+  {
+  background-color: rgb(156, 181, 250);
+  }
+input[type="text"]
+{
+    background: transparent;
+    color:white;
+}
+input[type="text"]:focus
+{
+    background: transparent;
+    color: white;
+}
+
